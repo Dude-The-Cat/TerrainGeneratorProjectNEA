@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "2A7Bjrj64JU=",
+  "success": true,
+  "projectFilePath": "/home/samuel/Documents/VSCode/NEA/NEA/Content/Content.csproj",
+  "expectedPackageFiles": [
+    "/home/samuel/.nuget/packages/assimpnetter/6.0.5/assimpnetter.6.0.5.nupkg.sha512",
+    "/home/samuel/.nuget/packages/bcnencoder.net/2.1.0/bcnencoder.net.2.1.0.nupkg.sha512",
+    "/home/samuel/.nuget/packages/libktx/0.9.2/libktx.0.9.2.nupkg.sha512",
+    "/home/samuel/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/samuel/.nuget/packages/microsoft.toolkit.highperformance/7.0.2/microsoft.toolkit.highperformance.7.0.2.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.framework.content.pipeline/3.8.6.1/monogame.framework.content.pipeline.3.8.6.1.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.framework.native/3.8.6.1/monogame.framework.native.3.8.6.1.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.library.assimp/6.0.5.1/monogame.library.assimp.6.0.5.1.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.library.freetype/2.13.2.5/monogame.library.freetype.2.13.2.5.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.library.mojoshader/1.0.0.7/monogame.library.mojoshader.1.0.0.7.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.tool.basisu/2.0.2.3/monogame.tool.basisu.2.0.2.3.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.tool.crunch/1.0.4.8/monogame.tool.crunch.1.0.4.8.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.tool.dxc/1.9.2607.1/monogame.tool.dxc.1.9.2607.1.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.tool.ffmpeg/7.0.0.11/monogame.tool.ffmpeg.7.0.0.11.nupkg.sha512",
+    "/home/samuel/.nuget/packages/monogame.tool.ffprobe/7.0.0.11/monogame.tool.ffprobe.7.0.0.11.nupkg.sha512",
+    "/home/samuel/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
+    "/home/samuel/.nuget/packages/sharpdx/4.2.0/sharpdx.4.2.0.nupkg.sha512",
+    "/home/samuel/.nuget/packages/sharpdx.d3dcompiler/4.2.0/sharpdx.d3dcompiler.4.2.0.nupkg.sha512",
+    "/home/samuel/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "/home/samuel/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512",
+    "/home/samuel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512",
+    "/home/samuel/.nuget/packages/microsoft.netcore.app.host.linux-x64/10.0.14/microsoft.netcore.app.host.linux-x64.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

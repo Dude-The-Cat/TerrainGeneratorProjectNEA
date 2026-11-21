@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "NEA (DesktopGL)",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Platforms/DesktopGL/NEA.DesktopGL.csproj",
+            "preLaunchTask": "Build: DesktopGL"
+        }
+    ]
+}
