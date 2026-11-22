@@ -9,6 +9,8 @@ namespace NEA.Core.Random
 
             // Mix the X coordinate into the hash
             hash ^= (uint)x;
+            hash *= 0x27d4eb2d; // A large prime number
+            has ^= hash >> 13;
 
         }
     }
